@@ -1,4 +1,9 @@
 body {
-  background-color: rgb(192,192,192);
+  /*background-color: rgb(192,192,192);*/
   background: url("flow.png");
 }
+strong {
+   color: #527274;
+  font-family: 'Montserrat', sans-serif;
+}
+  
